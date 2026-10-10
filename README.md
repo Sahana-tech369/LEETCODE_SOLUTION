@@ -7,4 +7,16 @@
 | [0183-customers-who-never-order](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
