@@ -19,4 +19,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
