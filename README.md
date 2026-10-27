@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0008-string-to-integer-atoi) |
 ## Math
 |  |
 | ------- |
