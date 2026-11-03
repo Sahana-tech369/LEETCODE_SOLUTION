@@ -25,6 +25,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0008-string-to-integer-atoi) |
+| [0242-valid-anagram](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
