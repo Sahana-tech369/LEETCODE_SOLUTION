@@ -12,6 +12,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -51,5 +53,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
