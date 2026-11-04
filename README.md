@@ -12,6 +12,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
