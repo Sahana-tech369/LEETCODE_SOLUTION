@@ -14,6 +14,7 @@
 | [0011-container-with-most-water](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2574-left-and-right-sum-differences](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
@@ -47,10 +48,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +63,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/2574-left-and-right-sum-differences) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
