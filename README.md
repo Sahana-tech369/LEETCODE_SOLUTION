@@ -14,6 +14,7 @@
 | [0011-container-with-most-water](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2574-left-and-right-sum-differences](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +56,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Sahana-tech369/LEETCODE_SOLUTION/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
